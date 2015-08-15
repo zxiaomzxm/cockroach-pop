@@ -630,8 +630,8 @@ SLIDER
 duration
 duration
 1
-100
-100
+200
+150
 1
 1
 NIL
